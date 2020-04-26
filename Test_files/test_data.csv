@@ -1,0 +1,6 @@
+id,price,currency,quantity,matching_id
+1,8000,PLN,6,1
+2,950,GBP,1,3
+3,2400,PLN,1,2
+4,1150,EU,2,2
+
